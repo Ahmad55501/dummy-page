@@ -1,7 +1,12 @@
+
+
+
+
 .my-container {
     display: flex;
    
     /* to tell that elements should wrap themselves to next line*/
+	/* to tell that elements should wrap themselves to next line*/
     flex-wrap: wrap;
    
 
